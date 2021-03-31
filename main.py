@@ -2,6 +2,7 @@
 """
 A simple app to create a JWT token.
 """
+import sys
 import os
 import logging
 import datetime

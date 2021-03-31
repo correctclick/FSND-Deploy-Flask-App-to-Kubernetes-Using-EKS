@@ -27,3 +27,4 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+project4_env/
